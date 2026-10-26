@@ -1,0 +1,12 @@
+.build/
+.swiftpm/
+.DS_Store
+*.app/
+*.dSYM/
+*.zip
+*.log
+.env*
+*.p12
+*.p8
+*.pem
+*.key
