@@ -12,6 +12,16 @@ WindowGroup gives you a clear view of the work in flight. Select your existing w
 
 > **Early preview:** The available Apple silicon build is signed for development and is **not notarized**. macOS Gatekeeper may block it on another Mac. The source can be built locally; a Developer ID–signed and notarized release is planned.
 
+## See WindowGroup in action
+
+![Illustration of six fictional agent windows arranged in a 3 by 2 group with a shared frame](docs/images/grouped-workspace.png)
+
+*AI-generated illustration with fictional window contents.*
+
+![Illustration of selecting six fictional windows with a drag box](docs/images/drag-selection.png)
+
+*AI-generated illustration of desktop selection; the actual interface may differ.*
+
 ## Use it
 
 1. Open WindowGroup and grant it Accessibility access in System Settings.
