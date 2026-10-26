@@ -1,6 +1,14 @@
 # WindowGroup
 
-A native macOS utility for bringing existing windows together. Select windows with a drag box or Command-click, arrange them in a grid, and move or resize the entire group together. Built for workflows with multiple coding agents, projects, or other app windows.
+**Your agents are working in parallel. Your windows should, too.**
+
+Running several AI coding agents at once changes how you work: one is building a feature, another is reviewing a change, and a third is waiting for your input. Keeping an eye on all of them shouldn't mean spending your day dragging windows back into place.
+
+WindowGroup gives you a clear view of the work in flight. Select your existing windows, arrange them in an even grid, and move or resize the entire group as one. Keep your agents, editor, and reference windows together so you can see what's happening and jump in when you're needed.
+
+**Select. Grid. Get back to building.**
+
+[Get the early preview](https://github.com/drfraker/WindowGroup/releases/tag/v0.2.0) · [How to use it](#use-it) · [Build from source](#build)
 
 > **Early preview:** The available Apple silicon build is signed for development and is **not notarized**. macOS Gatekeeper may block it on another Mac. The source can be built locally; a Developer ID–signed and notarized release is planned.
 
